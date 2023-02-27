@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\资料\Java源码社项目\02 成品-普通项目\102.aj JSP+Servlet网上书店图书商城(前台、后台)\BookShop\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
